@@ -22,7 +22,7 @@ const HeaderNav = () => {
     </>
   ]
   return (
-    <div className="mb-4">
+    <div className="mb-4 drop-shadow">
       <div className="navbar bg-base-100 lg:px-28 md:px-28">
         <div className="navbar-start">
 
