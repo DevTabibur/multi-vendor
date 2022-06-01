@@ -7,3 +7,4 @@
 1. React Router
 2. Tailwind
 3. DaisyUI
+4. Swiper.JS
