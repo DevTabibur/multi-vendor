@@ -9,7 +9,7 @@ import HeaderNav from './Pages/Shared/HeaderNav/HeaderNav';
 function App() {
   return (
     <>
-    {/* <HeaderNav/> */}
+    <HeaderNav/>
       <Home/>
     </>
   );
