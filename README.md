@@ -2,5 +2,8 @@
 
 [Live Website]().
 
-## Available Scripts
+## Available dependencies
 // demo https://klbtheme.com/bacola/multivendor/
+1. React Router
+2. Tailwind
+3. DaisyUI

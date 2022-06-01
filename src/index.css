@@ -1,13 +1,44 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* 
+<img src="https://i.ibb.co/yfHryFC/product-image-46-346x310.jpg" alt="product-image-46-346x310" border="0">
+<img src="https://i.ibb.co/Smjfn8P/product-image-48.jpg" alt="product-image-48" border="0">
+<img src="https://i.ibb.co/TkFKmm6/product-image-50.jpg" alt="product-image-50" border="0">
+<img src="https://i.ibb.co/d2458qy/product-image-50-346x310.jpg" alt="product-image-50-346x310" border="0">
+<img src="https://i.ibb.co/VLdYCJM/product-image-57-346x310.jpg" alt="product-image-57-346x310" border="0">
+<img src="https://i.ibb.co/yQm16cr/product-image-58-346x310.jpg" alt="product-image-58-346x310" border="0">
+<img src="https://i.ibb.co/cY4jP3D/product-image-59-346x310.jpg" alt="product-image-59-346x310" border="0">
+<img src="https://i.ibb.co/bLmNRXQ/product-image-60-346x310.jpg" alt="product-image-60-346x310" border="0">
+<img src="https://i.ibb.co/5GJF1Qt/product-image-62-346x310.jpg" alt="product-image-62-346x310" border="0">
+<img src="https://i.ibb.co/12nFfP9/slider-3.jpg" alt="slider-3" border="0">
+<img src="https://i.ibb.co/zGCCpMs/slider-image-1.jpg" alt="slider-image-1" border="0">
+<img src="https://i.ibb.co/w7Th9GV/slider-image-2.jpg" alt="slider-image-2" border="0">
+<img src="https://i.ibb.co/PN3xyN0/avatar-3.jpg" alt="avatar-3" border="0">
+<img src="https://i.ibb.co/WGr8F3y/bacola-banner-01.jpg" alt="bacola-banner-01" border="0">
+<img src="https://i.ibb.co/8x6N3QF/bacola-banner-02.jpg" alt="bacola-banner-02" border="0">
+<img src="https://i.ibb.co/5cDy2Y4/bacola-banner-04.jpg" alt="bacola-banner-04" border="0">
+<img src="https://i.ibb.co/wzGLGmB/bacola-logo.png" alt="bacola-logo" border="0">
+<img src="https://i.ibb.co/v3LjhdM/bacola-logo-mobile.png" alt="bacola-logo-mobile" border="0">
+<img src="https://i.ibb.co/HrRMRkF/banner-box.jpg" alt="banner-box" border="0">
+<img src="https://i.ibb.co/jvt3DTY/banner-box2.jpg" alt="banner-box2" border="0">
+<img src="https://i.ibb.co/X8714c6/baverages-1.jpg" alt="baverages-1" border="0">
+<img src="https://i.ibb.co/BtDxsSR/biscuitssnacks-1.jpg" alt="biscuitssnacks-1" border="0">
+<img src="https://i.ibb.co/PTNSv5r/breadbakery-1.jpg" alt="breadbakery-1" border="0">
+<img src="https://i.ibb.co/SsTQ3VX/category-image2.png" alt="category-image2" border="0">
+<img src="https://i.ibb.co/d6shTKc/category-image4.png" alt="category-image4" border="0">
+<img src="https://i.ibb.co/CHFQV1h/coupon.png" alt="coupon" border="0">
+<img src="https://i.ibb.co/JFfS46v/dairy-1.jpg" alt="dairy-1" border="0">
+<img src="https://i.ibb.co/dbWr6cL/fruitvegetables-1.jpg" alt="fruitvegetables-1" border="0">
+<img src="https://i.ibb.co/0BHjKbp/household-1.jpg" alt="household-1" border="0">
+<img src="https://i.ibb.co/7t1khTt/meat-1.jpg" alt="meat-1" border="0">
+<img src="https://i.ibb.co/xqRvxgj/product-image-3-346x310.jpg" alt="product-image-3-346x310" border="0">
+<img src="https://i.ibb.co/FWWGCcw/product-image-4.jpg" alt="product-image-4" border="0">
+<img src="https://i.ibb.co/SfTQYC6/product-image-5.jpg" alt="product-image-5" border="0">
+<img src="https://i.ibb.co/zh8bMQF/product-image-5-346x310.jpg" alt="product-image-5-346x310" border="0">
+<img src="https://i.ibb.co/b5jVPdb/product-image-7.jpg" alt="product-image-7" border="0">
+<img src="https://i.ibb.co/pwHGQ8D/product-image-7-346x310.jpg" alt="product-image-7-346x310" border="0">
+<img src="https://i.ibb.co/LnpY3pK/product-image-32-346x310.jpg" alt="product-image-32-346x310" border="0">
+<img src="https://i.ibb.co/t4LRBhP/product-image-45-346x310.jpg" alt="product-image-45-346x310" border="0">
+<img src="https://i.ibb.co/HXw34rm/product-image-46.jpg" alt="product-image-46" border="0"> */
