@@ -22,7 +22,7 @@ const HeaderNav = () => {
     </>
   ]
   return (
-    <div className="">
+    <div className="mb-4">
       <div className="navbar bg-base-100 lg:px-28 md:px-28">
         <div className="navbar-start">
 
@@ -69,7 +69,6 @@ const HeaderNav = () => {
           <a className="btn">Get started</a>
         </div>
       </div>
-      <div className="divider"></div> 
     </div>
   );
 };
