@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     <HeaderNav/>
-    <div className='px-28'>
+    <div className='lg:px-28'>
       <Routes>
         <Route path='/' element={<Home/>}></Route>
         <Route path='/home' element={<Home/>}></Route>
